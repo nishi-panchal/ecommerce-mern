@@ -7,7 +7,10 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Ecommerce built on MERN
+          Ecommerce built on MERN stack and it's going to be awesome
+        </p>
+        <p>
+          Hello world
         </p>
       </header>
     </div>
